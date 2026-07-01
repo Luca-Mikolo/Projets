@@ -37,7 +37,7 @@ body {
   font-family: 'Poppins', sans-serif;
   line-height: 1.6;
   color: #333;
-  background-color: #f4f6f8;
+  background-color: var(--bg);
   max-width: 850px;
   margin: 0 auto;
   padding: 2rem 1.5rem;
